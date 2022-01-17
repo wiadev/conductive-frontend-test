@@ -146,16 +146,3 @@ Below is an example of what we expect the visualization to look like. As mention
 ---
 
 Feel free to reach out with technical and non-technical questions. Our goal is to help you do your best with this test, so honest communication is key.
-
-![Untitled](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/5.png?raw=true)
-
-- **Paul** (Engineering)
-    - [paul@conductive.ai](mailto:paul@conductive.ai)
-    - [@paulpierre](https://t.me/paulpierre)
-    
-
-![Untitled](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/6.png?raw=true)
-
-- **Spencer** (Product)
-    - [spencer@conductive.ai](mailto:spencer@conductive.ai)
-    - [@spenceryip](https://t.me/spenceryip)
