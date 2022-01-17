@@ -48,7 +48,7 @@ You can see these transactions online here: [https://bscscan.com/token/0x7961ade
 
 You can see an example below:  
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51759394-fa06-4e85-9fa2-93b84bf4c86d/Untitled.png)
+![Untitled](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/1.png?raw=true)
 
 ### Columns
 
@@ -62,7 +62,7 @@ The file contains a few columns, the columns that will be relevant for this test
 - **`Method`** - This indicates the method or action you would like to take on a specific Token Smart Contract like “Transfer”.
     
     
-    ![Screen Shot 2022-01-17 at 11.55.53 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/837d84e0-45e7-485d-bcae-549f435c0174/Screen_Shot_2022-01-17_at_11.55.53_AM.png)
+    ![Screen Shot 2022-01-17 at 11.55.53 AM.png](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/2.png?raw=true)
     
 
 ### **Assumptions**
@@ -81,7 +81,7 @@ The QUIDD token had its [first offering on Polkastarter](https://polkastarter.co
 
 [https://bscscan.com/token/0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed?a=0xee62650fa45ac0deb1b24ec19f983a8f85b727ab](https://bscscan.com/token/0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed?a=0xee62650fa45ac0deb1b24ec19f983a8f85b727ab)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b60c27a-3e02-43aa-b586-b04af15dec26/Untitled.png)
+![Untitled](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/3.png?raw=true)
 
 # Problem
 
@@ -115,7 +115,7 @@ Below is an example of what we expect the visualization to look like. As mention
 2. The number of transfers to each node represented by link size.
 3. Summary panel displaying statistics of the visualization
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b36651e8-ef8d-4956-847d-c534cb17d51c/Untitled.png)
+![Untitled](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/4.png?raw=true)
 
 ### Solution Technical Requirements
 
@@ -147,14 +147,14 @@ Below is an example of what we expect the visualization to look like. As mention
 
 Feel free to reach out with technical and non-technical questions. Our goal is to help you do your best with this test, so honest communication is key.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e483f122-f177-4fb6-9bbf-766e7f65c262/Untitled.png)
+![Untitled](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/5.png?raw=true)
 
 - **Paul** (Engineering)
     - [paul@conductive.ai](mailto:paul@conductive.ai)
     - [@paulpierre](https://t.me/paulpierre)
     
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d1831e3-487b-4656-96b7-6092ef5de506/Untitled.png)
+![Untitled](https://github.com/conductiveai/conductive-frontend-test/blob/main/img/6.png?raw=true)
 
 - **Spencer** (Product)
     - [spencer@conductive.ai](mailto:spencer@conductive.ai)
