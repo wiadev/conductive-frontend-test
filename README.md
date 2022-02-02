@@ -8,7 +8,7 @@ This test helps us understand your skill level as a front-end developer. From ou
 
 It makes sense for you demonstrate to us your skill with a practical real-world example producing code we would actually use in production.
 
-_**Please fork this repository and check in your code, please deploy to Heroku/Netlify/etc. and send us a link to your REPO and live site **_
+_**Please fork this repository and check in your code, please deploy to Heroku/Netlify/etc. and send us a link to your REPO and live site**_
 
 
 # Objective
